@@ -29,7 +29,7 @@ What are the coldest and the warmest months on Mars (at the location of Curiosit
 ![temp](https://user-images.githubusercontent.com/120147552/225097782-003003c8-c79e-435a-8c5f-628e78baa0b5.png)
 
 Which months have the lowest and the highest atmospheric pressure on Mars? Plot the results as a bar chart.
-*  months with the lowest pressure are [6, 5] and the months with the highest pressure are [9, 2]
+*  The months with the lowest pressure are [6, 5] and the months with the highest pressure are [9, 2]
 
 ![pressure](https://user-images.githubusercontent.com/120147552/225098359-395b4bf2-a421-458e-a627-aee2bfc51b9b.png)
 
