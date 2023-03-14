@@ -24,7 +24,7 @@ Examine the data types that are currently associated with each column. If necess
 ![updated types](https://user-images.githubusercontent.com/120147552/225096245-7bc2fc5d-ddc7-4e9b-872a-c3d52269b4be.png)
 
 What are the coldest and the warmest months on Mars (at the location of Curiosity)? Plot the results as a bar chart.
-The coldest months are [3, 4] and the hottest months are [8, 9].
+*  The coldest months are [3, 4] and the hottest months are [8, 9].
 
 ![temp](https://user-images.githubusercontent.com/120147552/225097782-003003c8-c79e-435a-8c5f-628e78baa0b5.png)
 
